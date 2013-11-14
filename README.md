@@ -22,6 +22,10 @@ Nginx documentation: http://wiki.nginx.org/Main
 
   3. Update nginx.conf $repo_root to point to your __MP.nginx-node__ location
 
+  4. Party hard
+
+     ![Comminusm: it's a party](https://github.com/moviepilot/mp.nginx-node/blob/master/assets/party.jpg?raw=true)
+
 ### Start
 
   `nginx`
