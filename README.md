@@ -16,9 +16,9 @@ Nginx documentation: http://wiki.nginx.org/Main
   2. Swap your nginx config with one from the repo
 
     `sudo rm -f /usr/local/etc/nginx/nginx.conf`
-    `ln -s ~/Projects/mp.nginx/nginx.conf /usr/local/etc/nginx/nginx.conf`
+    `ln -s $(pwd)/nginx.conf /usr/local/etc/nginx/nginx.conf`
 
-    where ~/Projects/mp.nginx/nginx.conf is your __MP.nginx-node__ location
+    where $(pwd)/nginx.conf is your __MP.nginx-node__ location.
 
   3. Update nginx.conf $repo_root to point to your __MP.nginx-node__ location
 
