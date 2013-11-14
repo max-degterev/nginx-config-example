@@ -7,7 +7,7 @@ Nginx documentation: http://wiki.nginx.org/Main
 
 ## Usage:
 
-### Downloading and updating
+### Setup
 
   1. Install nginx:
 
