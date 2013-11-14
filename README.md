@@ -5,9 +5,9 @@ Short intro on how to use and configure nginx for beginners: http://learnaholic.
 
 Nginx documentation: http://wiki.nginx.org/Main
 
-## Usage:
+## Usage
 
-### Setup
+### Setup:
 
   1. Install nginx:
 
@@ -26,16 +26,16 @@ Nginx documentation: http://wiki.nginx.org/Main
 
      ![Comminusm: it's a party](https://github.com/moviepilot/mp.nginx-node/blob/master/assets/party.jpg?raw=true)
 
-### Start
+### Start:
 
   `nginx`
 
   Server will be running on port 3000 by default. Make sure that port is free.
 
-### Stop
+### Stop:
 
   `nginx -s stop`
 
-### Restart
+### Restart:
 
   `nginx -s stop && nginx`
