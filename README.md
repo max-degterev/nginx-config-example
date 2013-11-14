@@ -20,6 +20,8 @@ Nginx documentation: http://wiki.nginx.org/Main
 
     where ~/Projects/mp.nginx/nginx.conf is your __MP.nginx-node__ location
 
+  3. Update nginx.conf $repo_root to point to your __MP.nginx-node__ location
+
 ### Start
 
   `nginx`
