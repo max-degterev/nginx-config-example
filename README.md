@@ -1,9 +1,14 @@
 # MP.nginx-node
 
 This is helpful for running multiple [MP.boilerplate](https://github.com/moviepilot/mp.boilerplate) apps alongside.
+Short intro on how to use and configure nginx for beginners: http://learnaholic.me/2012/10/10/installing-nginx-in-mac-os-x-mountain-lion/
+
+Nginx documentation: http://wiki.nginx.org/Main
 
 ## Usage:
+
 ### Downloading and updating
+
   1. Install nginx:
 
     `brew install nginx`
@@ -13,7 +18,7 @@ This is helpful for running multiple [MP.boilerplate](https://github.com/moviepi
     `sudo rm -f /usr/local/etc/nginx/nginx.conf`
     `ln -s ~/Projects/mp.nginx/nginx.conf /usr/local/etc/nginx/nginx.conf`
 
-    where ~/Projects/mp.nginx/nginx.conf is your _MP.nginx-node_ location
+    where ~/Projects/mp.nginx/nginx.conf is your __MP.nginx-node__ location
 
 ### Start
 
