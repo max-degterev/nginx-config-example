@@ -4,6 +4,7 @@ This is helpful for running multiple [MP.boilerplate](https://github.com/moviepi
 Short intro on how to use and configure nginx for beginners: http://learnaholic.me/2012/10/10/installing-nginx-in-mac-os-x-mountain-lion/
 
 Nginx documentation: http://wiki.nginx.org/Main
+Location rules: http://wiki.nginx.org/HttpCoreModule#location
 
 ## Usage
 
@@ -24,7 +25,7 @@ Nginx documentation: http://wiki.nginx.org/Main
 
   4. Party hard
 
-     ![Comminusm: it's a party](https://github.com/moviepilot/mp.nginx-node/blob/master/assets/party.jpg?raw=true)
+     ![Comminusm: it's a party](http://voicesofthenation.com/wp-content/uploads/2011/12/communism.jpg)
 
 ### Start:
 
