@@ -6,14 +6,17 @@
       var locations = [
         {
           path: '/welcome',
+          name: 'welcome',
           port: '3001'
         },
         {
-          path: '/read',
+          path: '/stories/1212013-hobbit-s-graham-mctavish-talks-middle-earth-tats-and-being-a-bronte-fan',
+          name: 'stories',
           port: '3002'
         },
         {
-          path: '/new',
+          path: '/',
+          name: 'homepage',
           port: '3003'
         }
       ];
@@ -81,7 +84,7 @@
 
       for (var _i = 0, _l = locations.length; _i < _l; _i++) {
         item = locations[_i];
-        node = '<li><a href="' + item.path + '">' + (item.name || item.path) + ':' + item.port + '</a></li>';
+        node = '<li><a href="' + item.path + '">' + (item.name || item.path + ':' + item.port) + '</a></li>';
         list.push(node);
       }
 
