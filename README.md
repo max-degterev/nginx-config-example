@@ -25,7 +25,7 @@ Location rules: http://wiki.nginx.org/HttpCoreModule#location
 
   4. Party hard
 
-     ![Comminusm: it's a party](http://voicesofthenation.com/wp-content/uploads/2011/12/communism.jpg)
+     ![Communism: it's a party](http://voicesofthenation.com/wp-content/uploads/2011/12/communism.jpg)
 
 ### Start:
 
