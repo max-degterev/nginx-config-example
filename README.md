@@ -19,13 +19,13 @@ Location rules: http://wiki.nginx.org/HttpCoreModule#location
     `sudo rm -f /usr/local/etc/nginx/nginx.conf`
     `ln -s $(pwd)/nginx.conf /usr/local/etc/nginx/nginx.conf`
 
-    where $(pwd)/nginx.conf is your __MP.nginx-node__ location.
+    where `$(pwd)/nginx.conf` is your __MP.nginx-node__ location.
 
-  3. Update nginx.conf $repo_root to point to your __MP.nginx-node__ location
+  3. Update nginx.conf `$repo_root` to point to your __MP.nginx-node__ location
 
   4. Party hard
 
-     ![Comminusm: it's a party](http://voicesofthenation.com/wp-content/uploads/2011/12/communism.jpg)
+     ![Communism: it's a party](http://voicesofthenation.com/wp-content/uploads/2011/12/communism.jpg)
 
 ### Start:
 
